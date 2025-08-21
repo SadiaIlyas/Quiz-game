@@ -1,4 +1,6 @@
-🎯**** Quiz Game in C++***
+**🎯 Quiz Game in C++**
+
+
 **📌Overview**
 This project is a Console-based Quiz Game built using C++.
 It allows users to select from different topics (HTML, CSS, C++, Python) and then answer 10 multiple-choice questions from the chosen category.
